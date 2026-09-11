@@ -15,7 +15,7 @@ const Dashboard = () => {
     // const [search, setSearch] = useState('');
     // const [statusFilter, setStatusFilter] = useState('All');
     // const [priorityFilter, setPriorityFilter] = useState('All');
-    const [sortBy, setSortBy] = useState('dueDate');
+    // const [sortBy, setSortBy] = useState('dueDate');
 
     useEffect(() => {
         fetchTasks();
