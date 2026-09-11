@@ -6,7 +6,7 @@ import api from '../services/api';
 import { Search, Filter, CheckCircle2, Circle, Clock, CheckSquare, AlertCircle } from 'lucide-react';
 
 const Dashboard = () => {
-    const [tasks, setTasks] = useState([]);
+    // const [tasks, setTasks] = useState([]);
     const [loading, setLoading] = useState(true);
     const [showForm, setShowForm] = useState(false);
     const [editingTask, setEditingTask] = useState(null);
