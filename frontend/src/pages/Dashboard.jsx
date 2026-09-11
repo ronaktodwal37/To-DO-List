@@ -17,9 +17,9 @@ const Dashboard = () => {
     // const [priorityFilter, setPriorityFilter] = useState('All');
     // const [sortBy, setSortBy] = useState('dueDate');
 
-    useEffect(() => {
-        fetchTasks();
-    }, []);
+    // useEffect(() => {
+    //     fetchTasks();
+    // }, []);
 
     const fetchTasks = async () => {
         try {
