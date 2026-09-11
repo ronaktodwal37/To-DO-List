@@ -12,7 +12,7 @@ const Dashboard = () => {
     // const [editingTask, setEditingTask] = useState(null);
 
     // Filters and Sorting
-    const [search, setSearch] = useState('');
+    // const [search, setSearch] = useState('');
     const [statusFilter, setStatusFilter] = useState('All');
     const [priorityFilter, setPriorityFilter] = useState('All');
     const [sortBy, setSortBy] = useState('dueDate');
