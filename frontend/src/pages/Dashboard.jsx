@@ -9,7 +9,7 @@ const Dashboard = () => {
     // const [tasks, setTasks] = useState([]);
     // const [loading, setLoading] = useState(true);
     // const [showForm, setShowForm] = useState(false);
-    const [editingTask, setEditingTask] = useState(null);
+    // const [editingTask, setEditingTask] = useState(null);
 
     // Filters and Sorting
     const [search, setSearch] = useState('');
