@@ -12,7 +12,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 
 
 ## Prerequisites
-- Node.js 
+- Node.js installed
 - MongoDB installed and running on default port (or updated in `.env`)
 
 ## Setup Instructions
