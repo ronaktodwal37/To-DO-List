@@ -3,7 +3,7 @@
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) featuring strict user isolation.
 
 
-## 
+## Features
 - **User Authentication**: Secure registration and login using JWT and bcrypt.
 - **User Isolation**: Users can only see and manage their own specific tasks.
 - **Task Management**: Create, read, update, delete (CRUD) operations for tasks.
